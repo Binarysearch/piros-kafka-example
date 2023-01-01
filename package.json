@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Binarysearch/piros-kafka-example#readme",
   "devDependencies": {
     "@types/node": "~8.9.4",
-    "ts-loader": "^7.0.0"
+    "ts-loader": "^9.4.2"
   },
   "dependencies": {
     "@piros/kafka": "0.0.1",
